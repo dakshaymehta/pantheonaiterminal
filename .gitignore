@@ -16,6 +16,7 @@ codex-cli/README.md
 .history/
 *.swp
 *~
+*.md
 
 # caches
 .cache/
@@ -54,4 +55,3 @@ coverage/
 Thumbs.db
 Icon?
 .Spotlight-V100/
-
